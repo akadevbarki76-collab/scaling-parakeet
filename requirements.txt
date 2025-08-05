@@ -1,0 +1,14 @@
+click
+requests>=2.32.1
+google-generativeai
+python-dotenv
+PyGithub
+semgrep
+PyYAML>=5.4
+cachetools
+rich
+pytest
+requests_toolbelt
+httpx>=0.22.0
+beautifulsoup4
+httpx_ntlm
