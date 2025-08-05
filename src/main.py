@@ -15,7 +15,6 @@ import asyncio
 from src.tools import TOOL_REGISTRY
 from src.tools.refactor import refactor
 from src.tools.learn import learn
-from src.tools import nmap, nikto, dirsearch, sqlmap, waybackurls, nuclei
 from src.tools.pullpush import pullpush as pullpush_command
 
 
