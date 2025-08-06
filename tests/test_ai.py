@@ -1,6 +1,5 @@
 
 
-import pytest
 from urllib.parse import urlparse
 from src.main import analyze
 
