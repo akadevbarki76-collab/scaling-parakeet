@@ -1,6 +1,5 @@
 
 
-from urllib.parse import urlparse
 from src.main import analyze
 
 from unittest.mock import patch
